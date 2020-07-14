@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Exec=./Desktop/hello
+Name=hello
+GenericName=hello
+Comment=hello
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Icon=insert-text
+Categories=Application
